@@ -4,32 +4,15 @@ It is an offline Python GUI application which has all the basic features that a 
 
 UI of the Application:
 
-First look:
-<img src = "icon/user_interface.PNG" height = 400> 
 
-
-
-
-
-
-Working:
-<img src = "icon/working.PNG" height = 400>
-
-
-
-
-
-
-
-Add your own word:
-<img src = "icon/Add.PNG" height = 400>
-
-
-
-
-
-
-
-
-View database:
-<img src = "icon/View.PNG" height = 400>
+First look:   
+<img src = "icon/user_interface.PNG" height = 300>
+<br>
+Working:     
+<img src = "icon/working.PNG" height = 300>
+<br>
+Add your own word:   
+<img src = "icon/Add.PNG" height = 300>
+<br>
+View database:          
+<img src = "icon/View.PNG" height = 300>
