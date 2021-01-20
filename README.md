@@ -5,8 +5,8 @@ It is an offline Python GUI application which has all the basic features that a 
 UI of the Application:
 
 
-First look:  
-<img src = "icon/user_interface.PNG" height = 300 align= "middle">
+First look:  <br> <br>
+<img src = "icon/user_interface.PNG" height = 300>
 <br> <br><br> <br>
 Working:     
 <img src = "icon/working.PNG" height = 300>
