@@ -7,12 +7,12 @@ UI of the Application:
 
 First look:  <br> <br>
 <img src = "icon/user_interface.PNG" height = 300>
-<br> <br><br> <br>
-Working:     
+<br> <br><br> 
+Working:     <br> <br>
 <img src = "icon/working.PNG" height = 300>
-<br><br><br> <br>
-Add your own word:   
+<br><br><br>
+Add your own word:   <br> <br>
 <img src = "icon/Add.PNG" height = 300>
-<br><br><br> <br>
-View database:        
+<br><br><br> 
+View database:        <br> <br>
 <img src = "icon/View.PNG" height = 300>
